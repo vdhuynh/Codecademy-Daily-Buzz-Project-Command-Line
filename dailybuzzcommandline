@@ -1,0 +1,22 @@
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ ls
+business  culture  health  national  startups  technology
+$ cd national/politics/
+$ ls
+elections  policy
+$ cd elections/
+$ touch candidates.txt
+$ touch issues.txt
+$ cd ../../../
+$ cd business/
+$ ls
+disruptors  startups
+$ cd startups
+$ cd ../
+$ touch tech.txt
+$ touch design.txt
+$ touch education.txt
+$ cd ..
+$ pwd
+/home/ccuser/workspace/daily-buzz
